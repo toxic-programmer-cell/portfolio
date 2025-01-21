@@ -29,7 +29,7 @@
     overflow-x: hidden;
     position: relative;
     background-color: #121212 !important;
-    color: #fff;
+    color: #fff !important;
     font-family: 'Centra', sans-serif !important;
   }
   h1,h2,h3,h4,h5,h6{
